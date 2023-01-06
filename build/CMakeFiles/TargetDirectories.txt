@@ -1,0 +1,3 @@
+/Users/austenariniello/Desktop/cs4533/assg4/build/CMakeFiles/rebuild_cache.dir
+/Users/austenariniello/Desktop/cs4533/assg4/build/CMakeFiles/edit_cache.dir
+/Users/austenariniello/Desktop/cs4533/assg4/build/CMakeFiles/assg4.dir
